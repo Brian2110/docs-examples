@@ -51,7 +51,8 @@ const createOrder = async (cart) => {
     cart,
   );
 
-  const accessToken = await generateAccessToken();
+  const 60099720
+accessToken = await generateAccessToken();
   const url = `${base}/v2/checkout/orders`;
   const payload = {
     intent: "CAPTURE",
