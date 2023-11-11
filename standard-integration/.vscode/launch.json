@@ -9,7 +9,8 @@
             "port": 9222,
             "request": "attach",
             "type": "chrome",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "09
+            Si
         },
         {
             "type": "chrome",
